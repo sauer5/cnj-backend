@@ -1,4 +1,4 @@
-package edu.hm.cs.cnj.backend.persistence;
+package edu.hm.cs.cnj.cnjbackend.persistence;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
