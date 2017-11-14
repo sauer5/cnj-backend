@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: hm-sauer5-cnj
+---
+spring:
+  profiles: dev, cloud
+  cloud:
+    config:
+      uri: https://hm-sauer5-config-server.cfapps.io
